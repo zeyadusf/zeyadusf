@@ -12,7 +12,7 @@
 
 # 🎯 About Me :
 
-Hello, I am Zeyad El-Sayed, a machine learning engineer, I am a student at the Faculty of Computing and Artificial Intelligence, Benha University. I am interested in artificial intelligence and software engineering. I am a fast learner and love programming, coding, math and techniques.
+Hello, I am Zeyad El-Sayed, I am machine learning engineer, I am a student at the Faculty of Computing and Artificial Intelligence, Benha University. I am interested in artificial intelligence and software engineering. I am a fast learner and love programming, coding, math and techniques.
 
 <!--social media-->
 <div align="center">
