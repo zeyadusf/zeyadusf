@@ -37,7 +37,6 @@ Hello, I am Zeyad El-Sayed, a machine learning engineer, I am a student at the F
 </a> 
 </div>
 
-<hr>
 
 # 🚀 Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=cpp,python,java,html,css,sass,mysql,sqlite,git,github,powershell,visualstudio,vscode,tensorflow,stackoverflow	)](https://skillicons.dev)
@@ -48,7 +47,11 @@ Hello, I am Zeyad El-Sayed, a machine learning engineer, I am a student at the F
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="45" height="45" />
 
 </div>
-<hr>
+<!--3d ani-->
+
+![svg](./profile-3d-contrib/profile-green-animate.svg)
+
+
 
 # 📈  Stats:
 <br clear="both">
@@ -94,9 +97,11 @@ Hello, I am Zeyad El-Sayed, a machine learning engineer, I am a student at the F
 </a>
 
 <hr>
-<!--snak-->
-
-<!--3d ani-->
+<!--snake-->
+<p align="center">
+  
+![snake animation](https://raw.githubusercontent.com/zeyadusf/zeyadusf/output/github-contribution-grid-snake.svg)
+</p>
 
 
 
