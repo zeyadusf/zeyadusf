@@ -25,7 +25,7 @@ Hello, I am Zeyad El-Sayed, I am machine learning engineer, I am a student at th
    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="zeyadusf" height="30" width="40" />
  </a>
   
-<a href="https://www.linkedin.com/in/zeyad-usf-360154214/" target="blank">
+<a href="https://www.linkedin.com/in/zeyadusf/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Zeyad Usf" height="30" width="40" />
   </a>
   
@@ -99,7 +99,7 @@ Hello, I am Zeyad El-Sayed, I am machine learning engineer, I am a student at th
 </a>
 
 
-<a href="https://www.linkedin.com/in/zeyad-usf-360154214/" target="_blank">
+<a href="https://www.linkedin.com/in/zeyadusf/" target="_blank">
   <img src="https://img.shields.io/badge/-Zeyad Usf-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
 
   <a href="https://github.com/zeyadusf/" target="_blank">
