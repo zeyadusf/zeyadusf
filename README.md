@@ -6,14 +6,21 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zeyadusf&color=blue)
 
-<div align= "center">
+<!--<div align= "center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=1000&pause=1500&center=true&vCenter=true&width=500&height=100&lines=Hi++%F0%9F%91%8B+.+.+.;I'm+Zeyad++El-Sayed...;I%E2%80%99m+Machine+Learning+Engineer..;Nice+to+meet+you+%E2%9D%A4%EF%B8%8F.)](https://git.io/typing-svg)
+</div>-->
+<div align= "center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=1000&pause=1500&center=true&vCenter=true&width=500&height=100&lines=Hi++%F0%9F%91%8B+.+.+.;I'm+Zeyad++El-Sayed...;I%E2%80%99m+AI+Engineer..;Nice+to+meet+you+%E2%9D%A4%EF%B8%8F.)](https://git.io/typing-svg)
 </div>
 
 # 🎯 About Me :
 
+
 <p style="font-family:verdana">
+  I have some experience in software, machine learning, deep learning ,data science, and business intelligence.
+And I'm trying desperately to enter the world of LLMs and Transformers
 <!-- Hello, I am Zeyad El-Sayed, I am machine learning engineer, I am a student at the Faculty of Computer and Artificial Intelligence, Benha University. I am interested in artificial intelligence and software engineering. I am a fast learner and love programming, coding, math and techniques. -->
 </p>
 <!--social media-->
