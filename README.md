@@ -19,9 +19,7 @@
 
 
 <p style="font-family:verdana">
-  I have some experience in software, machine learning, deep learning ,data science, and business intelligence.
-And I'm trying desperately to enter the world of LLMs and Transformers
-<!-- Hello, I am Zeyad El-Sayed, I am machine learning engineer, I am a student at the Faculty of Computer and Artificial Intelligence, Benha University. I am interested in artificial intelligence and software engineering. I am a fast learner and love programming, coding, math and techniques. -->
+ AI & Machine Learning Engineer specializing in NLP, Computer Vision, and Speech Recognition. Skilled in developing innovative AI solutions. Proficient in Python and C++, with strong expertise in software development, machine learning, deep learning, data science, and business intelligence and natural language processing. Committed to continuous learning and applying advanced AI technologies to drive impactful projects.Currently, I am focused on entering the world of LLMs and Transformers.
 </p>
 <!--social media-->
 <div align="center">
@@ -86,8 +84,9 @@ And I'm trying desperately to enter the world of LLMs and Transformers
 
 <div align="center">
 
-  
-![snake animation](https://raw.githubusercontent.com/zeyadusf/zeyadusf/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/zeyadusf/zeyadusf/output/snake.svg" alt="Snake animation" />
+
+###
 </div>
 
 <hr>
