@@ -20,6 +20,8 @@
 
 <p style="font-family:verdana">
  AI & Machine Learning Engineer specializing in NLP, Computer Vision, and Speech Recognition. Skilled in developing innovative AI solutions. Proficient in Python and C++, with strong expertise in software development, machine learning, deep learning, data science, and business intelligence. Committed to continuous learning and applying advanced AI technologies to drive impactful projects.Currently, I am focused on entering the world of LLMs and Transformers.
+
+  > **Status now : Serving military**.
 </p>
 <!--social media-->
 <div align="center">
