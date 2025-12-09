@@ -21,7 +21,6 @@
 <p style="font-family:verdana">
  AI & Machine Learning Engineer specializing in NLP, Computer Vision, and Speech Recognition. Skilled in developing innovative AI solutions. Proficient in Python and C++, with strong expertise in software development, machine learning, deep learning, data science, and business intelligence. Committed to continuous learning and applying advanced AI technologies to drive impactful projects.Currently, I am focused on entering the world of LLMs and Transformers.
 
-  > **Status now : Serving military until December 2025**.
 </p>
 <!--social media-->
 <div align="center">
@@ -51,6 +50,16 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zeyadusf" height="30" width="40" />
 </a> 
 
+
+
+<p align="center">
+ <br> <a href="https://github.com/zeyadusf/zeyadusf/raw/main/Zeyad_Usf_CV.pdf" download>
+    <img src="https://img.shields.io/badge/Download-CV-blue?style=for-the-badge" alt="Download CV">
+  </a>
+  <a href="https://github.com/zeyadusf/zeyadusf/blob/main/Zeyad_Usf_CV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View-CV-green?style=for-the-badge" alt="View CV">
+  </a>
+</p>
 
 </div>
 
