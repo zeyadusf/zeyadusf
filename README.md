@@ -54,11 +54,11 @@
 
 <p align="center">
  <br> <a href="https://github.com/zeyadusf/zeyadusf/raw/main/Zeyad_Usf_CV.pdf" download>
-    <img src="https://img.shields.io/badge/Download-CV-blue?style=for-the-badge" alt="Download CV">
-  </a>
+    <img src="https://img.shields.io/badge/View-CV-green?style=for-the-badge" alt="Download CV">
+  <!-- </a>
   <a href="https://github.com/zeyadusf/zeyadusf/blob/main/Zeyad_Usf_CV.pdf" target="_blank">
     <img src="https://img.shields.io/badge/View-CV-green?style=for-the-badge" alt="View CV">
-  </a>
+  </a> -->
 </p>
 
 </div>
