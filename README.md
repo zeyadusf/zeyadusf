@@ -53,7 +53,7 @@
 
 
 <p align="center">
- <br> <a href="https://github.com/zeyadusf/zeyadusf/raw/main/Zeyad_Usf_CV.pdf" download>
+ <br> <a href="https://github.com/zeyadusf/zeyadusf/raw/main/ZeyadUsf.pdf" download>
     <img src="https://img.shields.io/badge/View-CV-green?style=for-the-badge" alt="Download CV">
   <!-- </a>
   <a href="https://github.com/zeyadusf/zeyadusf/blob/main/Zeyad_Usf_CV.pdf" target="_blank">
