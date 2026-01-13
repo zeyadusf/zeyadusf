@@ -65,7 +65,7 @@
 
 
 # 🚀 Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,java,html,css,sass,mysql,sqlite,git,github,powershell,visualstudio,vscode,pycharm,tensorflow,pytorch&perline=16)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,java,html,css,sass,mysql,sqlite,git,github,powershell,visualstudio,vscode,pycharm,tensorflow,pytorch,docker,fastapi&perline=16)](https://skillicons.dev)
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle logo" width="60" height="60"   />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="opencv logo" width="50" height="50"  />&nbsp;&nbsp;
