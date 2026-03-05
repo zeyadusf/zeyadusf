@@ -1,7 +1,13 @@
 <div>
-  <img src="https://komarev.com/ghpvc/?username=zeyadusf&color=blue&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/stars/zeyadusf?style=for-the-badge&logo=github&color=FFDD7E&label=Total%20Stars" alt="Total Stars" />
+  <a href="https://www.kaggle.com/zeyadusf" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Expert-9100FF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle Expert" height="28" />
+  </a>
+  
+  <img src="https://komarev.com/ghpvc/?username=zeyadusf&color=blue&style=flat-square&label=PROFILE%20VIEWS" alt="Profile Views" height="28" />
+  
+  <img src="https://img.shields.io/github/stars/zeyadusf?style=flat&logo=github&color=FFDD7E&label=TOTAL%20STARS" alt="Total Stars" height="28" />
 </div>
+<br>
 
 <div align="center">
   <p align="center">
