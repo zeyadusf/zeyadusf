@@ -1,29 +1,18 @@
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
-</p>
-
-![Profile Views](https://komarev.com/ghpvc/?username=zeyadusf&color=blue)
-
-<!--<div align= "center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=1000&pause=1500&center=true&vCenter=true&width=500&height=100&lines=Hi++%F0%9F%91%8B+.+.+.;I'm+Zeyad++El-Sayed...;I%E2%80%99m+Machine+Learning+Engineer..;Nice+to+meet+you+%E2%9D%A4%EF%B8%8F.)](https://git.io/typing-svg)
-</div>-->
-<div align= "center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=1000&pause=1500&center=true&vCenter=true&width=500&height=100&lines=Hi++%F0%9F%91%8B+.+.+.;I'm+Zeyad++El-Sayed...;I%E2%80%99m+AI+Engineer..;Nice+to+meet+you+%E2%9D%A4%EF%B8%8F.)](https://git.io/typing-svg)
+<div>
+  <img src="https://komarev.com/ghpvc/?username=zeyadusf&color=blue&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/stars/zeyadusf?style=for-the-badge&logo=github&color=FFDD7E&label=Total%20Stars" alt="Total Stars" />
 </div>
 
-# 🎯 About Me :
-
-
-<p style="font-family:verdana">
- AI & Machine Learning Engineer specializing in NLP, Computer Vision, and Speech Recognition. Skilled in developing innovative AI solutions. Proficient in Python and C++, with strong expertise in software development, machine learning, deep learning, data science, and business intelligence. Committed to continuous learning and applying advanced AI technologies to drive impactful projects.Currently, I am focused on entering the world of LLMs and Transformers.
-
-</p>
-<!--social media-->
 <div align="center">
+  <p align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" width="100%" />
+ </p>
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=1000&pause=1500&center=true&vCenter=true&width=500&height=100&lines=Hi++%F0%9F%91%8B+.+.+.;I'm+Zeyad+El-Sayed...;I%E2%80%99m+an+AI+Engineer...;Nice+to+meet+you+%E2%9D%A4%EF%B8%8F.)](https://git.io/typing-svg)
+
+<br>
+<br>
 <a href="https://www.kaggle.com/zeyadusf" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="zeyadusf" height="30" width="40" />
 </a>
@@ -49,104 +38,150 @@
 <a href="https://www.instagram.com/zeyadusf" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zeyadusf" height="30" width="40" />
 </a> 
-
-
-
-<p align="center">
- <br> <a href="https://github.com/zeyadusf/zeyadusf/raw/main/ZeyadUsf.pdf" download>
-    <img src="https://img.shields.io/badge/View-CV-green?style=for-the-badge" alt="Download CV">
-  <!-- </a>
-  <a href="https://github.com/zeyadusf/zeyadusf/blob/main/Zeyad_Usf_CV.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/View-CV-green?style=for-the-badge" alt="View CV">
-  </a> -->
-</p>
-
+  
 </div>
 
 
-# 🚀 Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,java,html,css,sass,mysql,sqlite,git,github,powershell,visualstudio,vscode,pycharm,tensorflow,pytorch,docker,fastapi,githubactions&perline=15)](https://skillicons.dev)
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle logo" width="60" height="60"   />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="opencv logo" width="50" height="50"  />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="60" height="60" />&nbsp;&nbsp;
-  <img src="https://github.com/zeyadusf/Credit-score-classification/assets/83798621/9fb41e8f-e623-4f1c-9aa2-73dddcc46189" alt="tableau" width="180" height="45"/>&nbsp;
-  <img src="https://github.com/zeyadusf/zeyadusf/assets/83798621/39a6e632-0025-4893-82b9-a6e61fab2bff" alt="powerbi" width="80" height="80"/>&nbsp;&nbsp;
+---
 
+## 🎯 About Me
 
+I am a passionate **AI & Machine Learning Engineer** dedicated to building intelligent systems and solving complex problems. With a solid foundation in software engineering and data science, I leverage advanced AI technologies to drive impactful projects.
 
-</div>
-<!--3d ani-->
+* 🧠 **Specializations:** Natural Language Processing (NLP), Computer Vision, and Speech Recognition.
+* 💻 **Core Expertise:** Software Development, Deep Learning, Data Science, and Business Intelligence.
+* 🚀 **Current Focus:** Deep diving into the world of **Large Language Models (LLMs)**, **RAG Pipelines**, and **AI Agents**.
+* 🌱 **Philosophy:** Committed to continuous learning and adopting state-of-the-art technologies.
 
-
-
-
-# 📈  Stats:
-<br clear="both">
+<br>
 
 <div align="center">
-
-
-
-  <img src="https://streak-stats.demolab.com?user=zeyadusf&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="250" alt="streak graph"  /><br>
-  
-<img src="https://github-readme-stats.vercel.app/api?username=zeyadusf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeyadusf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue&hide_border=false&order=2" height="150" alt="languages graph"  />
-
-<!--![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zeyadusf&theme=flag_india)-->
-
-
-![svg](./profile-3d-contrib/profile-green-animate.svg)
-
-
- 
+  <a href="https://github.com/zeyadusf/zeyadusf/raw/main/ZeyadUsf.pdf" download>
+    <img src="https://img.shields.io/badge/📥_Download_CV-238636?style=for-the-badge&logoColor=white" alt="Download CV">
+  </a>
+  <br><br>
 </div>
-<hr>
-<!--snake-->
+
+---
+
+## 🚀 Technical Skills 
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/zeyadusf/zeyadusf/output/snake.svg" alt="Snake animation" />
-
-###
+  <table border="0">
+    <tr>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" /><br><b>PyTorch</b>
+      </td>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" /><br><b>TensorFlow</b>
+      </td>
+      <td align="center" width="110">
+        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HuggingFace" width="48" height="48" /><br><b>HuggingFace</b>
+      </td>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" /><br><b>OpenCV</b>
+      </td>
+      <td align="center" width="160">
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
+      </td>
+      <td align="center" width="160">    
+        <img src="https://img.shields.io/badge/RAG_Pipelines-FF4081?style=for-the-badge&logo=gitbook&logoColor=white"/>
+      </td>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" /><br><b>Python</b>
+      </td>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" /><br><b>FastAPI</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" /><br><b>C++</b>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" /><br><b>Java</b>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" /><br><b>MySQL</b>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" /><br><b>SQLite</b>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" /><br><b>Docker</b>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" /><br><b>Git</b>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" /><br><b>CI/CD</b>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" /><br><b>Terminal</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" /><br><b>HTML5</b>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" /><br><b>CSS3</b>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" /><br><b>Sass</b>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="48" height="48" /><br><b>Tableau</b>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="48" height="48" /><br><b>PowerBI</b>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" /><br><b>VS Code</b>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=pycharm" width="48" height="48" /><br><b>PyCharm</b>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/google-colab.png" width="48" height="48" /><br><b>Colab</b>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<hr>
+<div align="center">
+  <br>
+  <img src="https://img.shields.io/badge/Focus-AI_&_Data_Science-blue?style=flat-square&logo=brain" />
+  <img src="https://img.shields.io/badge/Specialty-RAG_&_LLMs-orange?style=flat-square&logo=chainlink" />
+</div>
 
-## 📞 Contact :
+---
 
-<p align="center">
-  <a href="mailto:ziayd.usf@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Zeyad Usf-E0331F?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
+## 📈 GitHub Stats
+
+<div align="center">
+   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zeyadusf&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="50%" />
   
- <a href="https://www.facebook.com/ziayd.yosif" target="_blank">
-  <img src="https://img.shields.io/badge/-Zeyad Usf-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
-</a>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zeyadusf&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+  
+  <img src="https://streak-stats.demolab.com?user=zeyadusf&theme=transparent&border_radius=10&date_format=M+j%5B%2C+Y%5D&side_items=true&stroke=3B82F6&ring=FF4081&hide_border=true" width="80%" />
+  
+  <br>
+  <img src="https://raw.githubusercontent.com/zeyadusf/zeyadusf/output/snake.svg?palette=github-dark" width="90%" alt="Snake animation" />
+</div>
 
-<a href="https://www.instagram.com/zeyadusf/" target="_blank">
-  <img src="https://img.shields.io/badge/-zeyadusf-white?style=flat&logo=instagram&logoColor=#E65468" alt="Instagram" />
-</a>
+---
 
+## 📞 Get In Touch
 
-<a href="https://www.linkedin.com/in/zeyadusf/" target="_blank">
-  <img src="https://img.shields.io/badge/-Zeyad Usf-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-
-  <a href="https://github.com/zeyadusf/" target="_blank">
-  <img src="https://img.shields.io/badge/-Zeyad Usf-403E3E?style=flat&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-
-  <a href="https://www.kaggle.com/zeyadusf" target="_blank">
-  <img src="https://img.shields.io/badge/-Zeyad Usf-0077B5?style=flat&logo=kaggle&logoColor=white" alt="kaggle" />
-</a>
-
-
-
+<div align="center">
+  <a href="mailto:ziayd.usf@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/zeyadusf/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.kaggle.com/zeyadusf" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="https://huggingface.co/zeyadusf" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-F9AB00?style=for-the-badge&logo=huggingface&logoColor=white" alt="HuggingFace" /></a>
+  <a href="https://github.com/zeyadusf" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</div>
 
 <p align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </p>
-
-
