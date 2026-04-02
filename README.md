@@ -60,10 +60,13 @@ I am a passionate **AI & Machine Learning Engineer** dedicated to building intel
 * 🌱 **Philosophy:** Committed to continuous learning and adopting state-of-the-art technologies.
 
 <br>
-
 <div align="center">
   <a href="https://github.com/zeyadusf/zeyadusf/raw/main/ZeyadUsf.pdf" download>
-    <img src="https://img.shields.io/badge/📥_Download_CV-238636?style=for-the-badge&logoColor=white" alt="Download CV">
+    <img src="https://img.shields.io/badge/📥_Download_CV-238636?style=for-the-badge&logoColor=white" alt="Download CV" style="margin-right: 10px;">
+  </a>
+  
+  <a href="https://zeyadusf.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/💼_Portfolio-007ACC?style=for-the-badge&logoColor=white" alt="View Portfolio">
   </a>
   <br><br>
 </div>
