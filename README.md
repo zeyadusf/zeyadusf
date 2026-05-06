@@ -173,8 +173,7 @@ I am a passionate **AI & Machine Learning Engineer** dedicated to building intel
   
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zeyadusf&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
   
-<img src="https://streak-stats.demolab.com?user=zeyadusf&theme=transparent&border_radius=10&date_format=M+j%5B%2C+Y%5D&side_items=true&stroke=3B82F6&ring=FF4081&hide_border=true&random=1" width="80%" />  
-  <br>
+<img src="https://streak-stats.demolab.com?user=zeyadusf&theme=transparent&border_radius=10&date_format=M+j%5B%2C+Y%5D&side_items=true&stroke=3B82F6&ring=FF4081&hide_border=true&cache_seconds=1800" width="100%" />  <br>
   <img src="https://raw.githubusercontent.com/zeyadusf/zeyadusf/output/snake.svg?palette=github-dark" width="90%" alt="Snake animation" />
 </div>
 
