@@ -169,9 +169,9 @@ I am a passionate **AI & Machine Learning Engineer** dedicated to building intel
 ## 📈 GitHub Stats
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=zeyadusf&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="50%" />
+   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=zeyadusf&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)](https://github.com/zeyadusf" width="50%" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeyadusf&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zeyadusf&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="45%" />
   <img src="https://streak-stats.demolab.com?user=zeyadusf&theme=transparent&border_radius=10&date_format=M+j%5B%2C+Y%5D&side_items=true&stroke=3B82F6&ring=FF4081&hide_border=true&random=1" width="90%" />
 <br>
   <img src="https://raw.githubusercontent.com/zeyadusf/zeyadusf/output/snake.svg?palette=github-dark" width="90%" alt="Snake animation" />
